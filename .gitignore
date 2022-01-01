@@ -1,0 +1,8 @@
+project/
+.idea
+target/
+hello-world/target/*
+hello-world/project/target/*
+Scala_CookBook/.idea/*
+Scala_CookBook/target/*
+Django/venv/*
