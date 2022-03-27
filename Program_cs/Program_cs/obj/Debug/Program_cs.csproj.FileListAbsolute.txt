@@ -1,0 +1,8 @@
+C:\Users\paul.happy\Documents\Perso\Apprenticeship\Program_cs\Program_cs\bin\Debug\Program_cs.exe.config
+C:\Users\paul.happy\Documents\Perso\Apprenticeship\Program_cs\Program_cs\bin\Debug\Program_cs.exe
+C:\Users\paul.happy\Documents\Perso\Apprenticeship\Program_cs\Program_cs\bin\Debug\Program_cs.pdb
+C:\Users\paul.happy\Documents\Perso\Apprenticeship\Program_cs\Program_cs\obj\Debug\Program_cs.csproj.AssemblyReference.cache
+C:\Users\paul.happy\Documents\Perso\Apprenticeship\Program_cs\Program_cs\obj\Debug\Program_cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\paul.happy\Documents\Perso\Apprenticeship\Program_cs\Program_cs\obj\Debug\Program_cs.csproj.CoreCompileInputs.cache
+C:\Users\paul.happy\Documents\Perso\Apprenticeship\Program_cs\Program_cs\obj\Debug\Program_cs.exe
+C:\Users\paul.happy\Documents\Perso\Apprenticeship\Program_cs\Program_cs\obj\Debug\Program_cs.pdb
