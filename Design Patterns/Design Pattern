@@ -1,0 +1,30 @@
+** Design Pattern 
+
+what is a design pattern ?
+is a generak reusable solution 
+
+Where do they come from ?
+
+
+why should we learn design patterns?
+- avoid reinventing with wheels
+-improve communication
+- more effectif deliver better software
+
+How show we learn design patterns ?
+stage of learning
+deepeer:
+
+name and classification of the pattern
+intent (motivation or scenario, applicability , structure, collaboration, consequence (side effect), related pattern)
+    name
+    intent
+    scenario, 
+
+when should we apply design patterns ?
+
+what are some specific patterns to start with?
+ 
+ Strucuture :
+ client => (call) IService -> proxy(void someMethod)
+                  IService -> RelaService(void someMethod)
