@@ -1,0 +1,17 @@
+{
+	"ulid": "01FS5PAT8DBAMTW378GZ4N4G4P",
+	"minTime": 1641931202374,
+	"maxTime": 1641938400000,
+	"stats": {
+		"numSamples": 81465,
+		"numSeries": 679,
+		"numChunks": 679
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01FS5PAT8DBAMTW378GZ4N4G4P"
+		]
+	},
+	"version": 1
+}

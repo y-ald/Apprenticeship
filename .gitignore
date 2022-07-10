@@ -1,3 +1,4 @@
+
 project/
 .idea
 target/
@@ -6,3 +7,18 @@ hello-world/project/target/*
 Scala_CookBook/.idea/*
 Scala_CookBook/target/*
 Django/venv/*
+
+Scala_CookBook/.idea
+.idea
+Spark-The_Definitive_Guide/target/*
+Scala_CookBook/project/target/*
+Advanced_Analysis_spark/.idea/*
+Advanced_Analysis_spark/project/target/*
+Scala_CookBook/.idea/*
+Advanced_Analysis_spark/target/*
+Advanced_Analysis_spark/.idea/*
+Spark-The_Definitive_Guide/.idea/*
+Spark-The_Definitive_Guide/project/target/*
+Scala_CookBook/project/target/*
+Scala_CookBook/target/*
+
