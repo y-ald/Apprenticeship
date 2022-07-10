@@ -1,0 +1,10 @@
+FROM ubuntu
+
+RUN apt update
+
+WORKDIR /var/www/html
+RUN wget https://random-image/image.png
+
+WORKDIR /var/www/project
+ENTRYPOINT ["top", "-b"]
+CMD ["-c"]

@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 project/
 .idea
 target/
@@ -8,6 +9,8 @@ Scala_CookBook/.idea/*
 Scala_CookBook/target/*
 Django/venv/*
 
+=======
+>>>>>>> 805cefa ([Cours / Docker / python_programming] set up project)
 Scala_CookBook/.idea
 .idea
 Spark-The_Definitive_Guide/target/*
@@ -22,3 +25,15 @@ Spark-The_Definitive_Guide/project/target/*
 Scala_CookBook/project/target/*
 Scala_CookBook/target/*
 
+<<<<<<< HEAD
+=======
+project/
+.idea
+target/
+hello-world/target/*
+hello-world/project/target/*
+Scala_CookBook/.idea/*
+Scala_CookBook/target/*
+Django/venv/*
+Rock the JVM/scala-at-light-speed/.bloop/*
+>>>>>>> 805cefa ([Cours / Docker / python_programming] set up project)

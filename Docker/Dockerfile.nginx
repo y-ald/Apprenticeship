@@ -1,0 +1,16 @@
+FROM ubuntu
+
+RUN apt update
+RUN apt upgrade
+
+ADD https://thumbs.dreamstime.com/z/la-banque-postale-logo-bank-office-paris-france-october-french-as-subsidiary-poste-national-postal-service-162807073.jpg ~
+COPY thisfile.txt ~/files/thisfile.txt
+
+ENV NAMEL="YALD"
+
+EXPOSE port/protocol
+EXPOSE port/protocole (80/tcp)
+
+ENTRYPOINT ["executable", "parameter1", "parameter2"]
+ENTRYPOINT ["top", "-b"] top show information about computer
+CMD [-c]

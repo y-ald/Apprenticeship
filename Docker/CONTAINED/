@@ -1,0 +1,8 @@
+FROM ubuntu
+WORKDIR ~/script
+COPY hello-world.sh
+
+RUN chmod +X hello-world.sh
+
+CMD ['hello-world.sh']
+
