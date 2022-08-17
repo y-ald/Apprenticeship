@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Scala_CookBook/.idea
 .idea
 Spark-The_Definitive_Guide/target/*
@@ -12,7 +12,6 @@ Spark-The_Definitive_Guide/.idea/*
 Spark-The_Definitive_Guide/project/target/*
 Scala_CookBook/project/target/*
 Scala_CookBook/target/*
-=======
 project/
 .idea
 target/
@@ -21,4 +20,11 @@ hello-world/project/target/*
 Scala_CookBook/.idea/*
 Scala_CookBook/target/*
 Django/venv/*
->>>>>>> 9aedf739d37763fef5bbfd5524eda67e115abeff
+
+Rock the JVM/scala-at-light-speed/.metals/*
+Rock the JVM/.metals/*
+Spark-The_Definitive_Guide/~*
+Rock the JVM/scala-at-light-speed/.vscode/*
+Rock the JVM/scala-at-light-speed/.bloop/*
+Rock the JVM/scala-at-light-speed/.bloop/*
+Rock the JVM/null/

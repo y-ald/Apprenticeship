@@ -5,6 +5,5 @@ object Main {
       println("Hello, World!")
       val dt = 1
       println(dt)
-
   }
 }

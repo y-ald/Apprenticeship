@@ -19,7 +19,7 @@ object ObjectOrientation extends App {
     aDog.name 
 
     //subtype polymorphism
-    vam aDeclaredAnimal: Animal = new Dog("Hachi")
+    val aDeclaredAnimal: Animal = new Dog("Hachi")
     aDeclaredAnimal.eat()
 
     // abstract class 
@@ -34,9 +34,4 @@ object ObjectOrientation extends App {
     trait Canivore {
         def eat(animal: Animal): Unit
     }
-
-    class Crocodile extends Animal with Canivore { //mixed many trait
-
-    }
-
 }
