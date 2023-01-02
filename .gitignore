@@ -1,6 +1,8 @@
 
 Scala_CookBook/.idea
 .idea
+.vscode/
+.metals/
 Spark-The_Definitive_Guide/target/*
 Scala_CookBook/project/target/*
 Advanced_Analysis_spark/.idea/*
