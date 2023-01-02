@@ -22,7 +22,8 @@ hello-world/project/target/*
 Scala_CookBook/.idea/*
 Scala_CookBook/target/*
 Django/venv/*
-
+scalaprogrammingcousera/src/main/scala/weekOne/fireworks/.bloop/*
+scalaprogrammingcousera/src/main/scala/weekTwo/democracy/.bloop/*
 Rock the JVM/scala-at-light-speed/.metals/*
 Rock the JVM/.metals/*
 Spark-The_Definitive_Guide/~*
